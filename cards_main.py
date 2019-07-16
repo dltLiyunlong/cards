@@ -1,1 +1,1 @@
-print('zz')
+action_card = input("请输入您的操作：")
